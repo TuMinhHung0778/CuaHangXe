@@ -111,7 +111,7 @@ SHOW CREATE TABLE `gao`.`products`;
 SELECT CONSTRAINT_NAME, CHECK_CLAUSE FROM `information_schema`.`CHECK_CONSTRAINTS` WHERE CONSTRAINT_SCHEMA='gao' AND TABLE_NAME='products';
 
 ## Liên hệ
-Nếu có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ qua GitHub hoặc email: **tumh@example.com**.
+Nếu có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ qua Số Điện thoại : 0898124614 (zalo) hoặc email: **tuminhhung0901@gmail.com**.
 
 ---
 **© 2025 Từ Minh Hưng - Dự án Cửa Hàng Bán Xe** 🚗💨
